@@ -1,1 +1,1 @@
-# event-list-widget
+# gradient-event-list-widget
