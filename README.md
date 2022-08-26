@@ -170,8 +170,7 @@ html, .widget-EventList li > div {
 }
 ```
 
-
-![redStarSmall](https://user-images.githubusercontent.com/75779842/186805755-0c015694-3d55-4216-aa31-45c75e6772df.png)
+![redStarMini](https://user-images.githubusercontent.com/75779842/186805928-025fb2cc-e659-4d02-9158-233d2f5d33c0.png)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O5BY0J2)
