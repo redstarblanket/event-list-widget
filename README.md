@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-
 
 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+ <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
