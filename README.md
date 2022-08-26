@@ -3,6 +3,8 @@ Custom css for event list widgets that can be copied and pasted into the Streaml
 
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
+## The CSS Code
+
 ```
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
