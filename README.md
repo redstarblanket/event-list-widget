@@ -6,7 +6,7 @@ Custom css files for event list widgets that can be copied and pasted into the S
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
 
-<a href="https://github.com/redstarblanket/event-list-widgets/blob/dank/rainbow-gradient.css" target="_blank" style="color: #555; background: #ffc;">>Get Code Here</a>
+<a href="https://github.com/redstarblanket/event-list-widgets/blob/dank/rainbow-gradient.css" target="_blank" style="color: #555; background: #ffc;">Get Code Here</a>
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O5BY0J2)
