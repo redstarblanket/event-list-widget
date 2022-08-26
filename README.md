@@ -170,8 +170,8 @@ html, .widget-EventList li > div {
 }
 ```
 
-
-### Hippity Hoppity This Code Is OUR Property![redStarLittle](https://user-images.githubusercontent.com/75779842/186806049-a980d855-85aa-445e-9983-0fb8485808e5.png)
+[redStarLittle](https://user-images.githubusercontent.com/75779842/186806049-a980d855-85aa-445e-9983-0fb8485808e5.png) 
+### Hippity Hoppity This Code Is OUR Property!
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O5BY0J2)
