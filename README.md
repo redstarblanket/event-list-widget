@@ -11,5 +11,3 @@ https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O5BY0J2)
 
 
-
- <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
