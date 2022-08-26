@@ -3,7 +3,7 @@ Custom css for event list widgets that can be copied and pasted into the Streaml
 
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
-1. Copy the css code
+### 1. Copy the css code
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/75779842/186799330-7ffdc973-6b74-4c9e-9331-fcd60b463668.gif)
 
