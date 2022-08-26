@@ -1,15 +1,20 @@
 # Rainbow Gradient Event List Widget with Animated "Glitter" Effect
-Custom css for event list widgets that can be copied and pasted into the Streamlabs code editor
+Custom CSS for event list widgets that can be copied and pasted into the Streamlabs code editor
 
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
-### 1. Copy the css code below
+### 1. Copy the CSS code below
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/75779842/186799330-7ffdc973-6b74-4c9e-9331-fcd60b463668.gif)
 
 ### 2. Make sure custom HTML/CSS is enabled in your Streamlabs event list dashboard
 
 <img width="455" alt="Screen Shot 2022-08-25 at 8 13 19 PM" src="https://user-images.githubusercontent.com/75779842/186802029-3c3337eb-f833-4459-9f8e-c5b778fd7112.png">
+
+### 3. Paste the code into the CSS section of the Streamlabs code editor (replace any pre-existing code)
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/75779842/186803824-ca8deb75-6d3d-467e-8cf1-4c493a48cc3d.gif)
+
 
 ## The CSS Code
 
