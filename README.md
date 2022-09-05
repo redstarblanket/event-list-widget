@@ -114,7 +114,7 @@ html, .widget-EventList li > div {
 
 .widget-EventList li:first-child > div:last-child {
     -webkit-animation: growA 1.5s forwards;
-  					animation: growA 1.5s forwards;
+  	animation: growA 1.5s forwards;
 }
 
 
