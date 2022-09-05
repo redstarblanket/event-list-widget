@@ -18,6 +18,10 @@ The widget will show up in the Streamlabs software when you add the event list a
 
 ## Using it in OBS
 
+To use the widget in OBS, copy the widget URL from the Streamlabs.com event list dashboard after the CSS has been pasted in the code editor.
+
+<img width="951" alt="Screen Shot 2022-09-04 at 8 12 43 PM" src="https://user-images.githubusercontent.com/75779842/188347488-a64fefab-7281-4035-8da2-a82bc5d31e2f.png">
+
 
 ## The CSS Code
 
