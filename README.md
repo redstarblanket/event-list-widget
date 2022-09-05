@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/75779842/186803824-ca8deb75-6d3d-467e-8cf1-4c493a48cc3d.gif)
 The widget will show up in the Streamlabs software when you add the event list as a browser source.
 
-### Using it in OBS
+## Using it in OBS
 
 
 ## The CSS Code
