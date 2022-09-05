@@ -27,7 +27,7 @@ To use the widget in OBS, copy the widget URL from the Streamlabs.com event list
 
 Add a new browser source then paste the URL into URL field
 
-<img width="385" alt="Screen Shot 2022-09-04 at 8 22 57 PM" src="https://user-images.githubusercontent.com/75779842/188348972-5d990fa5-c9ed-431a-82d8-9ff199045f00.png"> <img width="400" alt="Screen Shot 2022-09-04 at 8 23 30 PM" src="https://user-images.githubusercontent.com/75779842/188349091-a17d0ba3-22bc-4ebc-b13d-189671925b9a.png">
+<img width="385" alt="Screen Shot 2022-09-04 at 8 22 57 PM" src="https://user-images.githubusercontent.com/75779842/188348972-5d990fa5-c9ed-431a-82d8-9ff199045f00.png"> <img width="450" alt="Screen Shot 2022-09-04 at 8 23 30 PM" src="https://user-images.githubusercontent.com/75779842/188349091-a17d0ba3-22bc-4ebc-b13d-189671925b9a.png">
 
 
 
