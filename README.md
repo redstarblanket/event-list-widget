@@ -37,8 +37,8 @@ Add a new browser source then paste the URL into URL field
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 html, .widget-EventList li > div {
--webkit-transform: rotateX($rotate_x) rotateY($rotate_y);
-  transform: rotateX($rotate_x) rotateY($rotate_y);  
+-webkit-transform: rotateX({rotate_x}) rotateY({rotate_y});
+ transform: rotateX({rotate_x}) rotateY({rotate_y}); 
     
 }
 
