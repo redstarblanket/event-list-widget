@@ -1,5 +1,5 @@
 # Rainbow Gradient Event List Widget with Animated "Glitter" Effect
-Custom CSS code for event list widgets that can be copied and pasted into the Streamlabs code editor
+Custom CSS and JSON for event list widgets that can be copied and pasted into the Streamlabs code editor
 
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
@@ -184,6 +184,21 @@ html, .widget-EventList li > div {
 .widget-EventList li > div:first-child {
   	
     background: url("https://raw.githubusercontent.com/redstarblanket/event-list-widget/dank/snowfall-glitter.gif"), linear-gradient(90deg, rgba(255,117,174,1) 0%, rgba(252,163,132,1) 15%, rgba(246,230,154,1) 32%, rgba(187,250,165,1) 50%, rgba(126,230,249,1) 67%, rgba(104,138,251,1) 83%, rgba(165,131,255,1) 100%);
+}
+```
+## The JSON
+
+```
+{
+    "barWidth": {
+        "label": "Width",
+        "type": "slider",
+        "name": "",
+        "value": 600,
+        "max": 950,
+        "min": 600,
+        "steps": 1
+    }
 }
 ```
 
