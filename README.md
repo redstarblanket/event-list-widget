@@ -1,6 +1,7 @@
 # Rainbow Gradient Event List Widget with Animated "Glitter" Effect - Customizable Width
 Custom CSS and JSON for event list widgets that can be copied and pasted into the Streamlabs code editor.
-The CSS will give it its look and the JSON will make it so you can adjust the width of the event list without having to touch the code.
+- The CSS will give it its look. 
+- The JSON will make it so you can adjust the width of the event list without having to touch the code.
 
 https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-966c-306eb895e5e5.mov
 
