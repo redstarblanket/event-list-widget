@@ -198,7 +198,7 @@ html, .widget-EventList li > div {
         "type": "slider",
         "name": "",
         "value": 600,
-        "max": 950,
+        "max": 965,
         "min": 600,
         "steps": 1
     }
