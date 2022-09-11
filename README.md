@@ -196,7 +196,6 @@ html, .widget-EventList li > div {
     "barWidth": {
         "label": "Width",
         "type": "slider",
-        "name": "",
         "value": 600,
         "max": 965,
         "min": 600,
