@@ -8,8 +8,9 @@ https://user-images.githubusercontent.com/75779842/186792798-eb10efbf-bde3-4a51-
 ## Using it in Streamlabs
 
 ### 1. Copy the CSS code below
-
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/75779842/186799330-7ffdc973-6b74-4c9e-9331-fcd60b463668.gif)
+
+Or go to [style.css]([https://pages.github.com/](https://github.com/redstarblanket/rainbow-gradient-event-list-widget/blob/dank/style.css) to copy it
 
 ### 2. Make sure custom HTML/CSS is enabled in your Streamlabs event list dashboard
 
