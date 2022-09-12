@@ -23,6 +23,7 @@ Or you can go to [style.css](https://github.com/redstarblanket/rainbow-gradient-
 The widget will show up in the Streamlabs software when you add the event list as a browser source.
 
 ### 4. Copy the JSON code 
+It is located beneath the CSS code, or you can go to [width.JSON](https://github.com/redstarblanket/rainbow-gradient-event-list-widget/blob/dank/width.JSON) to copy it.
 
 ## Using it in OBS
 
@@ -191,7 +192,7 @@ html, .widget-EventList li > div {
     background: url("https://raw.githubusercontent.com/redstarblanket/event-list-widget/dank/snowfall-glitter.gif"), linear-gradient(90deg, rgba(255,117,174,1) 0%, rgba(252,163,132,1) 15%, rgba(246,230,154,1) 32%, rgba(187,250,165,1) 50%, rgba(126,230,249,1) 67%, rgba(104,138,251,1) 83%, rgba(165,131,255,1) 100%);
 }
 ```
-## The JSON
+## The JSON Code
 
 ```
 {
