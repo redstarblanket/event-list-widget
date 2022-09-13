@@ -29,7 +29,11 @@ It is located beneath the CSS code, or you can go to [width.JSON](https://github
 
 Click on the "Add Custom Fields" button located to the bottom right of the code editor.
 
-<img width="500" alt="Screen Shot 2022-09-13 at 1 17 20 AM" src="https://user-images.githubusercontent.com/75779842/189836478-41642487-0421-43f6-8c40-685b9de168cd.png">
+<img width="600" alt="Screen Shot 2022-09-13 at 1 17 20 AM" src="https://user-images.githubusercontent.com/75779842/189836478-41642487-0421-43f6-8c40-685b9de168cd.png">
+
+Then, click on the "Edit Custom Fields" button to open up the editor.
+
+<img width="600" alt="Screen Shot 2022-09-13 at 1 07 54 AM" src="https://user-images.githubusercontent.com/75779842/189851097-f48aa8c6-06c8-4fed-8133-90d4a5b49637.png">
 
 
 ## Using it in OBS
