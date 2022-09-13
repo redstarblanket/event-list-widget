@@ -25,6 +25,13 @@ The widget will show up in the Streamlabs software when you add the event list a
 ### 4. Copy the JSON code 
 It is located beneath the CSS code, or you can go to [width.JSON](https://github.com/redstarblanket/rainbow-gradient-event-list-widget/blob/dank/width.JSON) to copy it.
 
+### 5. Add custom fields and open up the custom fields editor
+
+Click on the "Add Custom Fields" button located to the bottom right of the code editor.
+
+<img width="500" alt="Screen Shot 2022-09-13 at 1 17 20 AM" src="https://user-images.githubusercontent.com/75779842/189836478-41642487-0421-43f6-8c40-685b9de168cd.png">
+
+
 ## Using it in OBS
 
 To use the widget in OBS, copy the widget URL from the Streamlabs.com event list dashboard after the CSS has been pasted in the code editor.
