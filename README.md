@@ -39,9 +39,10 @@ Then, click on the "Edit Custom Fields" button to open up the editor.
 ### 6. Paste the JASON code into the custom fields editor
 It is okay to replace any existing code.
 
-<img width="450" alt="Screen Shot 2022-09-13 at 2 30 00 AM" src="https://user-images.githubusercontent.com/75779842/189852166-b11fc426-e5bc-4634-bc1c-4c2a3985db73.png">
+<img width="388" alt="Screen Shot 2022-09-13 at 2 30 00 AM" src="https://user-images.githubusercontent.com/75779842/189852166-b11fc426-e5bc-4634-bc1c-4c2a3985db73.png">
 
-<img width="450" alt="Screen Shot 2022-09-13 at 2 30 16 AM" src="https://user-images.githubusercontent.com/75779842/189852364-ee9baa5e-7787-45cb-818b-fc702a5a969b.png">
+<img width="388" alt="Screen Shot 2022-09-13 at 2 49 53 AM" src="https://user-images.githubusercontent.com/75779842/189856969-a66a20b3-db0d-4d84-96d4-0655ba0433bd.png">
+
 
 Click "Update" and the width slider will appear.
 
