@@ -43,6 +43,11 @@ It is okay to replace any existing code.
 
 <img width="450" alt="Screen Shot 2022-09-13 at 2 30 16 AM" src="https://user-images.githubusercontent.com/75779842/189852364-ee9baa5e-7787-45cb-818b-fc702a5a969b.png">
 
+Click "Update" and the width slider will appear.
+
+<img width="600" alt="Screen Shot 2022-09-13 at 2 33 08 AM" src="https://user-images.githubusercontent.com/75779842/189853026-110715f6-4cb0-4b5e-9ebd-5b23bfe6bbcb.png">
+
+
 ## Using it in OBS
 
 To use the widget in OBS, copy the widget URL from the Streamlabs.com event list dashboard after the CSS has been pasted in the code editor.
