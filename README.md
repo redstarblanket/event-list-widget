@@ -223,7 +223,7 @@ html, .widget-EventList li > div {
         "label": "Width",
         "type": "slider",
         "value": 600,
-        "max": 965,
+        "max": 800,
         "min": 600,
         "steps": 1
     }
