@@ -25,7 +25,7 @@ html, .widget-EventList li > div {
 }
 
 .widget-EventList li {
-    width: 100%;
+    width: {barWidth};
     position: relative;
   	-webkit-animation: myAnim 1.5s ease-in 0s 1 normal;
   					animation: myAnim 1.5s ease-in 0s 1 normal;
