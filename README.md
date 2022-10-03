@@ -123,7 +123,7 @@ html, .widget-EventList li > div {
     width: 100%;
     height: 100%;
     border-radius: 10px;
-  	border: 3px solid rgba(235, 249, 255, 0.75);
+    border: 3px solid rgba(235, 249, 255, 0.75);
     opacity: 0.7;
     -webkit-transition: opacity 0.5s linear 2s;
             transition: opacity 0.5s linear 2s;
